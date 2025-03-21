@@ -1,5 +1,8 @@
-Hi, I’m @shelle-mim, or Michelle Leong.
+### Hey there! I’m @shelle-mim, or Michelle Leong.
+💡 Problem-Solver | Data Enthusiast | Tech Generalist
 
-I'm studying Computer Science at Singapore Management Univerity, where I’m currently in my Final Semester. With a keen interest in Software Development, Machine Learning and Data Science, I am expected to graduate with a Bachelor of Science (CS IT Solution Development Major, Artificial Intelligence & Cyber-Physical Systems specialisations) at the end of this year (2023).
+I’m passionate about solving complex problems—whether it’s through AI, automation, or data-driven insights. With a background in Computer Science & Machine Learning, I’ve worked on projects ranging from OCR automation to building AI-powered chatbots.
 
-I am currently seeking jobs in these fields of interest, and am enthusiastic to continue contributing to innovative projects and further my growth as a developer.
+Currently, I’m a Business Analyst & Project Manager, orchestrating system changes, API development, and cross-functional collaboration. Now, I’m diving deeper into the world of data and analytics, looking to harness the power of data for smarter decision-making.
+
+🚀 Let’s connect and build something awesome!
